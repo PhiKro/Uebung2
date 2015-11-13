@@ -1,8 +1,8 @@
 
 public class Noten2 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
 
 		int punkte = 95;
 		String note = getNotentext(punkte);

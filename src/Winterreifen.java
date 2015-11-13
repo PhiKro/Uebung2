@@ -10,7 +10,7 @@ public class Winterreifen {
 		
 			if (pflicht) // Wenn Ergebniss aus dem Unterprogramm True ist 
 				{
-					System.out.println("Bitte Winterreifen verwende");
+					System.out.println("Bitte Winterreifen verwenden");
 				}
 			else  // Wenn das Ergebniss aus dem Unterprogramm False ist
 				{
